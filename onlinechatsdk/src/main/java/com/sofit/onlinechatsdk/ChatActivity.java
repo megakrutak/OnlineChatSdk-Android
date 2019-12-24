@@ -4,8 +4,7 @@ import android.app.Activity;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.net.Uri;
-
-import androidx.annotation.NonNull;
+import android.support.annotation.NonNull;
 
 public abstract class ChatActivity extends Activity {
 
